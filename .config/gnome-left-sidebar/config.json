@@ -1,0 +1,17 @@
+{
+  "sidebar_width": 600,
+  "sidebar_height": 600,
+  "sidebar_valign": "center",
+  "toggle_shortcut": "<Shift><Alt>s",
+  "edge_hover_enabled": false,
+  "hover_delay_ms": 150,
+  "auto_hide": true,
+  "auto_hide_delay_ms": 350,
+  "widgets": [
+    "01-clock.js",
+    "02-quick-apps.js"
+  ],
+  "disabled_widgets": [
+    "03-template.js"
+  ]
+}

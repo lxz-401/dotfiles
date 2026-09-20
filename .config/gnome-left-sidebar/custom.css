@@ -1,0 +1,52 @@
+/*
+ * ~/.config/gnome-left-sidebar/custom.css
+ * Bu yerda siz chap panelning barcha qismlarini o'zingiz xohlagandek bezatishingiz mumkin.
+ * Faylni saqlashingiz bilan panelda stillar DARHOL o'zgaradi (Hot-Reload).
+ */
+
+/* Asosiy panel foni va chegarasi */
+.left-sidebar-panel {
+    /* Masalan, yanada shaffof yoki rangliroq fon berish mumkin: */
+    background-color: rgba(20, 20, 28, 0.88);
+}
+
+/* Sarlavha matni */
+.left-sidebar-title {
+
+  color: #62a0ea;
+}
+
+/* Kartochkalar foni */
+.left-sidebar-card {
+    /* background-color: rgba(255, 255, 255, 0.08); */
+    /* border-radius: 14px; */
+}
+
+/* Soat vidjeti uchun maxsus stillar */
+.clock-widget-time {
+    font-size: 10px;
+    font-weight: 800;
+    color: #FF0000;
+}
+
+.clock-widget-date {
+    font-size: 10pt;
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 500;
+}
+
+/* Tezkor ilovalar tugmalari */
+.quick-app-btn {
+    border-radius: 12px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.06);
+    transition-duration: 200ms;
+}
+
+.quick-app-btn:hover {
+    background-color: rgba(255, 255, 255, 0.18);
+}
+
+.left-sidebar-section-title {
+    color: #FF0000;
+}

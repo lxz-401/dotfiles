@@ -1,0 +1,23 @@
+# Secrets and sensitive files
+*.env
+*.env.*
+*.secret
+*.token
+*credentials*
+*.key
+*.pem
+
+# Backups and editor swap files
+*.bak
+*.old
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Caches and logs
+*.log
+.cache/
+logs/
+node_modules/
