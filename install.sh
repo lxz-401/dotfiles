@@ -44,6 +44,9 @@ link_file "$DOTFILES_DIR/.config/lazygit" "$HOME/.config/lazygit"
 link_file "$DOTFILES_DIR/.config/gtk-3.0" "$HOME/.config/gtk-3.0"
 link_file "$DOTFILES_DIR/.config/gnome-wallpaper-switcher" "$HOME/.config/gnome-wallpaper-switcher"
 link_file "$DOTFILES_DIR/.config/gnome-left-sidebar" "$HOME/.config/gnome-left-sidebar"
+link_file "$DOTFILES_DIR/.config/htop" "$HOME/.config/htop"
+link_file "$DOTFILES_DIR/.config/mousiki" "$HOME/.config/mousiki"
+link_file "$DOTFILES_DIR/.config/yt-dlp" "$HOME/.config/yt-dlp"
 
 # Neovim (NitroVim submodule)
 if [ -d "$DOTFILES_DIR/.config/nvim" ]; then

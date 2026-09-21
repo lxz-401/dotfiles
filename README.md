@@ -16,7 +16,7 @@ Personal Linux configuration files, scripts, and high-resolution wallpapers tail
 - **Custom Tools**:
   - [gnome-wallpaper-switcher](https://github.com/lxz-401/gnome-wallpaper-switcher)
   - gnome-left-sidebar (custom sidebar & widgets)
-- **Wallpapers**: 40+ curated 4K/5K wallpapers (Anime, Dark, Minimalist, Default)
+- **Wallpapers**: 45+ curated 4K/5K wallpapers (Anime, Dark, Minimalist, Default)
 
 ---
 
@@ -36,6 +36,9 @@ dotfiles/
 │   ├── gtk-3.0/                    # GTK3 dark theme settings & bookmarks
 │   ├── gnome-wallpaper-switcher/   # Wallpaper switcher daemon config
 │   ├── gnome-left-sidebar/         # GNOME desktop sidebar widget config
+│   ├── htop/                       # Htop system monitor configuration
+│   ├── mousiki/                    # Terminal music player configuration
+│   ├── yt-dlp/                     # yt-dlp video downloader configuration
 │   └── nvim/                       # NitroVim submodule (https://github.com/lxz-401/NitroVim)
 ├── wallpapers/                     # Curated high-res desktop wallpapers
 │   ├── anime/
